@@ -1,5 +1,5 @@
 void main() {
-  // Pode ser criada a lista assim ou omitindo o tipo
+  // Pode ser criada a lista assim
   List<int> meusNumeros = [1, 2, 3];
   //ou omitindo o tipo
   var meusNumerosreplicado = [1, 2, 3];
